@@ -20,8 +20,8 @@ Page Ranking : It rank web pages according to the frequency of keywords in a giv
 
 Authors
 
-Fahad Patel
-Hetansh Shah
-Yash Bhalala 
-Ramandeep Bhathal
+1.Fahad Patel
+2.Hetansh Shah
+3.Yash Bhalala 
+4.Ramandeep Bhathal
 
